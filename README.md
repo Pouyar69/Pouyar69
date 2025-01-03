@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Pouya Rahebi
-- 👀 I’m interested in Python/AI/Blockchain
-- 🌱 I’m currently learning Python
+- 👀 I’m interested in Bioinformatics/Python/AI
+- 🌱 I’m currently learning Python and Django
